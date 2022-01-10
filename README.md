@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DerEL-dev
 - 👀 I’m interested in coding , modding and stuff like that
-- 🌱 I’m currently learning C#
 
 
 <!---
